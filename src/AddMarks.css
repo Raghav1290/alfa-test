@@ -1,0 +1,35 @@
+.add-marks {
+    margin-top: 20px;
+}
+
+h1 {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+.text-muted {
+    color: red !important;
+}
+
+p {
+    color: red !important;
+
+}
+
+.form-control {
+    margin-left: 0% !important;
+}
+
+.btn-primary {
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 40px;
+    background-color: #ef6603;
+    border: none;
+    width: 80px;
+    height: 40px;
+
+}

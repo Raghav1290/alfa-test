@@ -1,0 +1,33 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    max-width: 1400px;
+    width: 100%;
+    padding: 20px 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+  }
+  
+  th {
+    border: 1px solid black;
+    background-color: #ef6603;
+    text-align: center;
+    padding: 8px;
+  }
+
+  td {
+      background-color: #dddddd;
+      text-align: center;
+      border: 1px solid black;
+      padding: 10px 10px 10px 10px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  span {
+      background-color: #ef6603;
+
+  }

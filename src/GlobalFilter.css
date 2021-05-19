@@ -1,0 +1,20 @@
+span {
+    background-color: transparent !important;
+}
+
+input {
+    height: 40px;
+    width: 200px;
+    margin-left: 40%;
+    margin-right: 60%;
+    border: #ef6603 1px solid;
+    border-radius: 5%;
+    background-color: white;
+}
+
+small {
+    color: red;
+    margin-left: 25%;
+    font-size: 16px;
+    margin-top: 10px;
+}

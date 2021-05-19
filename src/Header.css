@@ -1,0 +1,30 @@
+
+
+.nav-item {
+    border: 1px solid red;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #ef6603;
+}
+
+.nav-item:hover {
+    background-color: #f8a367;
+}
+
+.nav-link {
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.nav-link:hover {
+    color: wheat;
+}
+
+.navbar-brand {
+    color: #ef6603;
+}
+
+.header {
+    margin-top: 10px;
+}
